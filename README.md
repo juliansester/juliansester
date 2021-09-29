@@ -3,8 +3,8 @@
 Welcome to the github page of Julian Sester.
 
 - I am currently a PostDoc at NTU Singapore
-- You can  find more information about me and my research on my [Homepage](https://sites.google.com/view/juliansester/home).
-- How to reach me: julian.sester@ntu.edu.sg 
+- You can  find more information about me and my research on my [academic homepage](https://sites.google.com/view/juliansester/home).
+- You can always contact me: julian.sester@ntu.edu.sg 
 
 I provide the companion Code for the following papers.
 - [Robust deep hedging](https://github.com/juliansester/nga)
