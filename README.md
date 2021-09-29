@@ -11,6 +11,7 @@ I provide the companion code for the following papers.
 - [Robust Statistical Arbitrage Strategies](https://github.com/juliansester/statistical-arbitrage)
 - [Model-free price bounds under dynamic option trading](https://github.com/juliansester/dynamic_option_trading)
 - [A deep learning approach to data-driven model-free pricing and to martingale optimal transport](https://github.com/juliansester/deep_model_free_pricing)
+- [Calculating capital charges for sector concentration risk](https://github.com/juliansester/calculating_capital_charges)
 
 Have fun!
 
