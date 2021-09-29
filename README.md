@@ -1,9 +1,10 @@
-### Hi,
+### Hi there,
 
-Welcome to my github-repo.
+Welcome to the github page of Julian Sester.
 
-- I am currently a PostDoc at NTU Singapore, you can  find more information about me and my research on my [Homepage](https://sites.google.com/view/juliansester/home).
-- 📫 How to reach me: julian.sester@ntu.edu.sg 
+- I am currently a PostDoc at NTU Singapore
+- You can  find more information about me and my research on my [Homepage](https://sites.google.com/view/juliansester/home).
+- How to reach me: julian.sester@ntu.edu.sg 
 
 Have fun!
 
