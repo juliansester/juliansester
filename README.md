@@ -6,7 +6,7 @@ Welcome to the github page of Julian Sester.
 - You can  find more information about me and my research on my [Homepage](https://sites.google.com/view/juliansester/home).
 - How to reach me: julian.sester@ntu.edu.sg 
 
-On my github page I provide the companion Code for the following papers.
+I provide the companion Code for the following papers.
 - [Robust deep hedging](https://github.com/juliansester/nga)
 - [Robust Statistical Arbitrage Strategies](https://github.com/juliansester/statistical-arbitrage)
 - [Model-free price bounds under dynamic option trading](https://github.com/juliansester/dynamic_option_trading)
