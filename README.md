@@ -7,11 +7,11 @@ Welcome to the github page of Julian Sester.
 - You can always contact me: julian.sester@ntu.edu.sg 
 
 I provide the companion code for the following papers.
-- [Robust deep hedging](https://github.com/juliansester/nga)
-- [Robust Statistical Arbitrage Strategies](https://github.com/juliansester/statistical-arbitrage)
-- [Model-free price bounds under dynamic option trading](https://github.com/juliansester/dynamic_option_trading)
-- [A deep learning approach to data-driven model-free pricing and to martingale optimal transport](https://github.com/juliansester/deep_model_free_pricing)
-- [Calculating capital charges for sector concentration risk](https://github.com/juliansester/calculating_capital_charges)
+- [Robust deep hedging](https://github.com/juliansester/nga) (Python)
+- [Robust Statistical Arbitrage Strategies](https://github.com/juliansester/statistical-arbitrage) (R)
+- [Model-free price bounds under dynamic option trading](https://github.com/juliansester/dynamic_option_trading) (Python)
+- [A deep learning approach to data-driven model-free pricing and to martingale optimal transport](https://github.com/juliansester/deep_model_free_pricing) (Python)
+- [Calculating capital charges for sector concentration risk](https://github.com/juliansester/calculating_capital_charges) (R)
 
 Have fun!
 
