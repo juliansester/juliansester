@@ -7,6 +7,7 @@ Welcome to the github page of Julian Sester.
 - Feel free to contact me: julian.sester@ntu.edu.sg 
 
 I provide the companion code for the following papers.
+- [Improved Robust Price Bounds for Multi-Asset Derivatives Under Market-Implied Dependence Information ](https://github.com/juliansester/improved-dependence-pricing) (Python)
 - [Robust deep hedging](https://github.com/juliansester/nga) (Python)
 - [Robust Statistical Arbitrage Strategies](https://github.com/juliansester/statistical-arbitrage) (R)
 - [Model-free price bounds under dynamic option trading](https://github.com/juliansester/dynamic_option_trading) (Python)
