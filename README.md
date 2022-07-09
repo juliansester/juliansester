@@ -2,9 +2,9 @@
 
 Welcome to the github page of Julian Sester.
 
-- I am currently a PostDoc at NTU Singapore
+- I am currently a Peng Tsu Ann Assistant Professor at NUS Singapore
 - You can  find more information about me and my research on my [academic homepage](https://sites.google.com/view/juliansester/home).
-- Feel free to contact me: julian.sester@ntu.edu.sg 
+- Feel free to contact me: jul_ses@nus.edu.sg 
 
 I provide the companion code for the following papers.
 - [Markov Decision Processes under Model Uncertainty](https://github.com/juliansester/Robust-Portfolio-Optimization) (Python)
