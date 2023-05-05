@@ -7,6 +7,8 @@ Welcome to the github page of Julian Sester.
 - Feel free to contact me: jul_ses@nus.edu.sg 
 
 I provide the companion code for the following papers.
+
+- [ A Multi-Marginal C-Convex Duality Theorem for Martingale Optimal Transport ](https://github.com/juliansester/C-Convex) (Python)
 - [Robust Q-learning Algorithm for Markov Decision Processes under Wasserstein Uncertainty](https://github.com/juliansester/Wasserstein-Q-learning) (Python)
 - [Markov Decision Processes under Model Uncertainty](https://github.com/juliansester/Robust-Portfolio-Optimization) (Python)
 - [Improved Robust Price Bounds for Multi-Asset Derivatives Under Market-Implied Dependence Information ](https://github.com/juliansester/improved-dependence-pricing) (Python)
