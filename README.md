@@ -8,8 +8,8 @@ Welcome to the github page of Julian Sester.
 
 I provide the companion code for the following papers.
 
-- [ "Neural networks can detect model-free static arbitrage strategies ](https://github.com/juliansester/Deep-Arbitrage) (Python)
-- [ A Multi-Marginal C-Convex Duality Theorem for Martingale Optimal Transport ](https://github.com/juliansester/C-Convex) (Python)
+- [Neural networks can detect model-free static arbitrage strategies ](https://github.com/juliansester/Deep-Arbitrage) (Python)
+- [A Multi-Marginal C-Convex Duality Theorem for Martingale Optimal Transport ](https://github.com/juliansester/C-Convex) (Python)
 - [Robust Q-learning Algorithm for Markov Decision Processes under Wasserstein Uncertainty](https://github.com/juliansester/Wasserstein-Q-learning) (Python)
 - [Markov Decision Processes under Model Uncertainty](https://github.com/juliansester/Robust-Portfolio-Optimization) (Python)
 - [Improved Robust Price Bounds for Multi-Asset Derivatives Under Market-Implied Dependence Information ](https://github.com/juliansester/improved-dependence-pricing) (Python)
