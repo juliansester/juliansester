@@ -10,6 +10,7 @@ I provide the companion code for the following papers.
 
 - [Non-concave distributionally robust stochastic control in a discrete time finite horizon setting](https://github.com/juliansester/Robust-Hedging-Finite-Horizon) (Python)
 - [Neural networks can detect model-free static arbitrage strategies ](https://github.com/juliansester/Deep-Arbitrage) (Python)
+- [Bounding the Difference between the Values of Robust and Non-Robust Markov Decision Problems](https://github.com/juliansester/MDP_Bound) (Python)
 - [A Multi-Marginal C-Convex Duality Theorem for Martingale Optimal Transport ](https://github.com/juliansester/C-Convex) (Python)
 - [Robust Q-learning Algorithm for Markov Decision Processes under Wasserstein Uncertainty](https://github.com/juliansester/Wasserstein-Q-learning) (Python)
 - [Markov Decision Processes under Model Uncertainty](https://github.com/juliansester/Robust-Portfolio-Optimization) (Python)
