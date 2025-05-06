@@ -10,7 +10,7 @@ I provide the companion code for the following papers.
 
 - [Name Concentration Risk in Multilateral Development Banks' Portfolios: Measurement and Capital Adequacy Implications](https://github.com/juliansester/MDB-Portfolios) (Python)
 - [Measuring Name Concentrations through Deep Learning](https://github.com/juliansester/DL_Concentration_Risk) (Python)
-- [Non-concave distributionally robust stochastic control in a discrete time finite horizon setting](https://github.com/juliansester/Robust-Hedging-Finite-Horizon) (Python)
+- [Non-concave stochastic optimal control in finite discrete time under model uncertainty](https://github.com/juliansester/Robust-Hedging-Finite-Horizon) (Python)
 - [Neural networks can detect model-free static arbitrage strategies ](https://github.com/juliansester/Deep-Arbitrage) (Python)
 - [Bounding the Difference between the Values of Robust and Non-Robust Markov Decision Problems](https://github.com/juliansester/MDP_Bound) (Python)
 - [A Multi-Marginal C-Convex Duality Theorem for Martingale Optimal Transport ](https://github.com/juliansester/C-Convex) (Python)
