@@ -11,6 +11,7 @@ Welcome to the GitHub page of **Julian Sester**.
 This repository contains companion code for various research papers. Below is a list of papers along with their corresponding code:
 
 ### **Stochastic Control and Financial Applications**
+- [Q-Learning under Finite Model Uncertainty}](https://github.com/juliansester/FiniteQLearning) (Python)
 - [Non-concave stochastic optimal control in finite discrete time under model uncertainty](https://github.com/juliansester/Robust-Hedging-Finite-Horizon) (Python)
 - [Markov Decision Processes under Model Uncertainty](https://github.com/juliansester/Robust-Portfolio-Optimization) (Python)
 - [Bounding the Difference between the Values of Robust and Non-Robust Markov Decision Problems](https://github.com/juliansester/MDP_Bound) (Python)
