@@ -16,12 +16,16 @@ Below you find a curated list of research projects together with their correspon
 
 ---
 
-### 🔹 Stochastic Control & Decision Making under Uncertainty
+### 🔹 Stochastic Control & Decision Making under Uncertainty & Reinforcement Learning
 
 - **Q-Learning under Finite Model Uncertainty**  
   https://github.com/juliansester/FiniteQLearning  
   *Python*
-
+  
+- **Robust Q-Learning for Markov Decision Processes under Wasserstein Uncertainty**  
+  https://github.com/juliansester/Wasserstein-Q-learning  
+  *Python*
+  
 - **Non-concave Stochastic Optimal Control in Finite Discrete Time under Model Uncertainty**  
   https://github.com/juliansester/Robust-Hedging-Finite-Horizon  
   *Python*
@@ -46,17 +50,13 @@ Below you find a curated list of research projects together with their correspon
   https://github.com/juliansester/DL_Concentration_Risk  
   *Python*
 
-- **Robust Q-Learning for Markov Decision Processes under Wasserstein Uncertainty**  
-  https://github.com/juliansester/Wasserstein-Q-learning  
-  *Python*
-
 - **Robust Deep Hedging**  
   https://github.com/juliansester/nga  
   *Python*
 
 ---
 
-### 🔹 Financial Risk Management & Pricing
+### 🔹 Credit Risk
 
 - **Name Concentration Risk in Multilateral Development Banks' Portfolios**  
   https://github.com/juliansester/MDB-Portfolios  
@@ -66,17 +66,10 @@ Below you find a curated list of research projects together with their correspon
   https://github.com/juliansester/calculating_capital_charges  
   *R*
 
-- **A Deep Learning Approach to Model-Free Pricing and Martingale Optimal Transport**  
-  https://github.com/juliansester/deep_model_free_pricing  
-  *Python*
-
-- **Robust Statistical Arbitrage Strategies**  
-  https://github.com/juliansester/statistical-arbitrage  
-  *R*
 
 ---
 
-### 🔹 Mathematical Optimization & Martingale Optimal Transport
+### 🔹 Martingale Optimal Transport & Distributionally Robust Pricing
 
 - **A Multi-Marginal C-Convex Duality Theorem for Martingale Optimal Transport**  
   https://github.com/juliansester/C-Convex  
@@ -89,6 +82,14 @@ Below you find a curated list of research projects together with their correspon
 - **Model-Free Price Bounds under Dynamic Option Trading**  
   https://github.com/juliansester/dynamic_option_trading  
   *Python*
+
+- **A Deep Learning Approach to Model-Free Pricing and Martingale Optimal Transport**  
+  https://github.com/juliansester/deep_model_free_pricing  
+  *Python*
+
+- **Robust Statistical Arbitrage Strategies**  
+  https://github.com/juliansester/statistical-arbitrage  
+  *R*
 
 ---
 
